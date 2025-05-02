@@ -1,4 +1,8 @@
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 .env
 .venv/
+=======
+.env
+>>>>>>> origin/develop
